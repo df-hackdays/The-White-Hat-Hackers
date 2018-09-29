@@ -1,4 +1,6 @@
 # The-White-Hat-Hackers
-We are the white hat hackers
+## Problem Statement 
+How do we empower Canadians with lower digital literacy levels or who are intimidated by technology to understand the importance of digital literacy for themselves or their children?
 
-Our goal is to help those who need assistance with digital literacy. 
+## Solution
+Teach without telling them you are teaching
